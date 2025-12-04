@@ -102,6 +102,8 @@ anchor.group.add(glasses.scene);
 });
 
 ```
+## OUTPUT:
+![IMG_20251204_113352](https://github.com/user-attachments/assets/860bd7a2-39d3-403a-810a-2f55f8a139e7)
 
 ## RESULT: 
 The system tracks the user’s face in real time and displays a face mask texture that moves along with the face.
